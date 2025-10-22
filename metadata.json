@@ -1,0 +1,5 @@
+{
+  "name": "ModelOps Vision",
+  "description": "A dashboard to monitor machine learning models in production, tracking metrics like accuracy drift, latency, and data changes. Includes a Gemini-powered YAML configuration generator for monitoring setup.",
+  "requestFramePermissions": []
+}
